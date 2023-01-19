@@ -3,3 +3,6 @@ def count_to_ten():
         print(i)
 
 count_to_ten()
+# we need more lines
+# write
+# practice
