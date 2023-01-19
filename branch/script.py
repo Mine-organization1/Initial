@@ -3,3 +3,7 @@ def count_to_ten():
         print(i)
 
 count_to_ten()
+
+#lets add these comments
+#do
+#not
